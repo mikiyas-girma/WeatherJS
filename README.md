@@ -12,11 +12,14 @@ Welcome to the Weather Web App repository! This is a simple web application buil
 ## Demo
 
 # Here are sample  screenshot showcasing weather web app in action.
-![Weather Web App Demo](images/Screenshot1.png)
-![Weather Web App Demo](images/Screenshot2.png)
+<p align="center"><img src="images/Screenshot1.png" alt="Weather Web App Demo" width="75%"></p>
+
+# we can change to the location we want
+<p align="center"><img src="images/Screenshot2.png" alt="Weather Web App Demo" width="75%"> </p>
+
 
 # It is also designed to be responsive for mobile devices
-![Weather Web App Demo](images/Screenshot3.jpg)
+<p align="center"> <img src="images/Screenshot3.jpg" alt="Weather Web App Demo" width="400"> </p>
 
 ## Features
 
