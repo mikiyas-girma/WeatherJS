@@ -16,7 +16,7 @@ Welcome to the Weather Web App repository! This is a simple web application buil
 ![Weather Web App Demo](images/Screenshot2.png)
 
 # It is also designed to be responsive for mobile devices
-![Weather Web App Demo](images/Screenshot3.png)
+![Weather Web App Demo](images/Screenshot3.jpg)
 
 ## Features
 
