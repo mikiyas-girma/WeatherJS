@@ -12,8 +12,8 @@ Welcome to the Weather Web App repository! This is a simple web application buil
 ## Demo
 
 Insert a screenshot or GIF showcasing your weather web app in action.
-![Weather Web App Demo](images/Screenshot1.png)
-![Weather Web App Demo](images/Screenshot2.png)
+![Weather Web App Demo](images/Screenshot.png)
+![Weather Web App Demo](images/Screenshot.png)
 
 It is also designed to be responsive for mobile devices
 
