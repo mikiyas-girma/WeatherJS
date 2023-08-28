@@ -16,8 +16,6 @@ Insert a screenshot or GIF showcasing your weather web app in action.
 ![Weather Web App Demo](images/Screenshot2.png)
 
 It is also designed to be responsive for mobile devices
-![Weather Web App Demo](images/screenshot3.png)
-![Weather Web App Demo](images/screenshot4.png)
 
 ## Features
 
