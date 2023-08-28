@@ -12,10 +12,11 @@ Welcome to the Weather Web App repository! This is a simple web application buil
 ## Demo
 
 # Here are sample  screenshot showcasing weather web app in action.
-![Weather Web App Demo](images/Screenshot.png)
-![Weather Web App Demo](images/Screenshot.png)
+![Weather Web App Demo](images/Screenshot1.png)
+![Weather Web App Demo](images/Screenshot2.png)
 
-It is also designed to be responsive for mobile devices
+# It is also designed to be responsive for mobile devices
+![Weather Web App Demo](images/Screenshot3.png)
 
 ## Features
 
@@ -25,7 +26,7 @@ It is also designed to be responsive for mobile devices
 - Responsive design for various screen sizes.
 
 ## Contributing
-**Contributions are welcome! If you find any issues or want to enhance the app, feel free to open a pull request. **
+** Contributions are welcome! If you find any issues or want to enhance the app, feel free to open a pull request **
 
 1. Fork the repository.
 2. Create a new branch: git checkout -b feature/your-feature-name.
