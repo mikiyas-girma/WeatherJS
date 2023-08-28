@@ -13,7 +13,7 @@ class UI {
   }
 
   displayWeather(result) {
-    this.location.textContent = result.name + ' , ' + weatherLocation.country;
+    this.location.textContent = result.name + ' , ' + result.sys.country;
     this.desc.textContent = result.weather[0].description;
     this.string.textContent = result.main.temp + ' ℃';
     this.icon.setAttribute('src', `https://openweathermap.org/img/wn/${result.weather[0].icon}@2x.png`);  
